@@ -8,7 +8,7 @@ To use this repository, you'll need to have Python 3 installed on your computer.
 
 Once you have Python 3 installed, you can clone this repository by running the following command in your terminal:
 
-```git clone https://github.com/farzanekram07/hackerrank-python-solutions.git```
+```git clone https://github.com/farzanekram07/Hackerrank.git```
 
 Replace <username> with your GitHub username.
 
