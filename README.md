@@ -3,7 +3,7 @@ Welcome to the README for HackerRank. This repository contains solutions to vari
 
 Each problem's solution is stored in a separate file, named after the problem's title. For example, the solution to the problem "arithmetic" is stored in a file named "arithmetic.py".
 
-## 🚀 Getting Started
+##  Getting Started
 To use this repository, you'll need to have Python 3 installed on your computer. You can download Python 3 from the official website: https://www.python.org/downloads/
 
 Once you have Python 3 installed, you can clone this repository by running the following command in your terminal:
